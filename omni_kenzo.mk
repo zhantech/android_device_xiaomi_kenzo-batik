@@ -14,4 +14,4 @@ PRODUCT_MODEL := Redmi Note 3
 PRODUCT_MANUFACTURER := Xiaomi
 
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.hardware.keystore=sdm660
+    ro.hardware.keystore=msm8952
